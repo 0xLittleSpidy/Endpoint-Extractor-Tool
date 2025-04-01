@@ -1,6 +1,3 @@
-**README - Endpoint Extractor Tool**
-
-
 ### **Description**
 This tool is particularly powerful during the **endpoint enumeration phase** of reconnaissance, especially when analyzing open-source software (e.g., CMS platforms, web apps like "Open Source CME," or self-hosted tools). Here’s how it fits into your workflow:
 
